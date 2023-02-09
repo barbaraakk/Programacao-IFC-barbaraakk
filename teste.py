@@ -1,0 +1,3 @@
+teste = "teste"
+print(teste)
+
